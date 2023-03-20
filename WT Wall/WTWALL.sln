@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FPSLATINO BR", "MenuRelax\MenuRelax.vcxproj", "{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Final1|Win32 = Final1|Win32
+		Finale|Win32 = Finale|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Debug|Win32.ActiveCfg = Release|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Debug|Win32.Build.0 = Release|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Final1|Win32.ActiveCfg = Final1|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Final1|Win32.Build.0 = Final1|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Finale|Win32.ActiveCfg = Finale|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Finale|Win32.Build.0 = Finale|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Release|Win32.ActiveCfg = Release|Win32
+		{5D19DEA1-6398-45B8-9F32-F8186E6F59EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
